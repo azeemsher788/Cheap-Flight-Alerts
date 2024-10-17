@@ -44,12 +44,6 @@ Cheap-Flight-Alerts is a Python-based application designed to help users find th
 - The application will automatically search for flights and send email alerts based on the criteria defined in the code.
 - Ensure that the Google Sheets are properly set up and accessible via the API.
 
-## Contributing
-- Fork the repository.
-- Create a new branch (`git checkout -b feature-branch`).
-- Commit your changes (`git commit -am 'Add new feature'`).
-- Push to the branch (`git push origin feature-branch`).
-- Create a new Pull Request.
 
 ## License
 This project is licensed under the MIT License.
